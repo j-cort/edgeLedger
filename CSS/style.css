@@ -77,7 +77,7 @@ img {
 
 /* Header */
 .hero {
-  background: url('/img/home/showcase.jpg') no-repeat center center/cover;
+  background: url('edgeLedger/img/home/showcase.jpg') no-repeat center center/cover;
   height: 100vh;
   position: relative;
   color: #fff;
@@ -118,7 +118,7 @@ img {
   } 
 
   .hero.blog {
-    background: url('/img/home/blog.jpg') no-repeat center center/cover;
+    background: url('edgeLedger/img/home/blog.jpg') no-repeat center center/cover;
     height: 30vh;
   }
   /* Icons */
